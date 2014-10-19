@@ -1,0 +1,26 @@
+achi
+- Author
+- name
+- describe
+- conditions
+- dateStart
+- dateEnd
+- score
+- createdDate
+- Parent Achi
+: addAchi
+
+author
+- firstName
+- lastName
+- Copmany
+
+company
+- name
+- address
+- zip
+- city
+
+group
+- name
+- Achi[]
